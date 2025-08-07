@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Number Classification and Conversion\bin\Debug\Number Classification and Conversion.exe.config
+C:\Users\HP\source\repos\Number Classification and Conversion\bin\Debug\Number Classification and Conversion.exe
+C:\Users\HP\source\repos\Number Classification and Conversion\bin\Debug\Number Classification and Conversion.pdb
+C:\Users\HP\source\repos\Number Classification and Conversion\obj\Debug\Number Classification and Conversion.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Number Classification and Conversion\obj\Debug\Number Classification and Conversion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Number Classification and Conversion\obj\Debug\Number Classification and Conversion.exe
+C:\Users\HP\source\repos\Number Classification and Conversion\obj\Debug\Number Classification and Conversion.pdb
